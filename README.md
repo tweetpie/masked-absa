@@ -15,6 +15,8 @@ In Aspect Term Sentiment Classification, current models often overemphasize the 
 <p align="center">
   <img width= 60% src="./images/alm_blm_camp.png" alt="US_races">
 </p>
+An effective strategy to address the scarcity of ABSA datasets and bias involves using weak supervision with social network structures, like retweet networks. By analyzing retweet patterns, sentiment and aspect orientations within specific groups can be inferred without detailed manual annotation. This approach creates large-scale, weakly labeled datasets that can be refined with machine learning and validated through targeted reviews. A well-defined codebook enhances the efficiency and consistency of labeling by providing guidelines for detecting stances based on community orientations. This method reduces the costs of creating labeled datasets and captures a wide range of aspects and sentiments across diverse groups and sub-communities.
+
 ## Datasets
 
 ## Contiributions and Feedback
