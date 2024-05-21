@@ -2,9 +2,11 @@
 Welcome to the **Masked Aspect-Based Sentiment Analysis** repository. This project addresses the challenges of scarcity and high costs associated with manual annotation in Aspect-Based Sentiment Analysis (ABSA) by utilizing weak supervision methods. We have demonstrated the superiority of our model using SemEval datasets and real-world tweet data.
 
 ## Masked Aspect Sentiment Classification (MASC)
+Aspect-based stance detection identifies the stance towards each aspect term in a sentence. 
 <p align="center">
   <img width= 60% src="./images/Masked_Stance_p1.png" alt="sentence">
 </p>
+In Aspect Term Sentiment Classification, current models often overemphasize the presence of aspect terms and the majority sentiment associated with them, ignoring the broader sentence context. This issue is particularly problematic with real-world datasets that have skewed or missing labels for specific aspects, causing models to memorize and repeatedly predict the same sentiment for certain words. The MaskedABSA method addresses these issues by replacing aspect terms with a placeholder token "[MASK]."
 <p align="center">
   <img width= 60% src="./images/Masked_Stance_p3.png" alt="MASC">
 </p>
