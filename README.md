@@ -23,11 +23,3 @@ An effective strategy to address the scarcity of ABSA datasets and bias involves
 We encourage contributions and feedback to improve this project. If you have suggestions or want to contribute, please open an issue or pull request on our GitHub repository.
 
 ## Citation
-@inproceedings{
-  title={Masking The Bias : From Echo Chambers to Large Scale Aspect-Based Sentiment Analysis},
-  author={Yeonjung Lee, Yusuf \c{C}etinkaya, Emre K\"{u}lah, Hakk{\i} Toroslu and Hasan Davulcu},
-  booktitle={},
-  pages={},
-  year={},
-  organization={}
-}
