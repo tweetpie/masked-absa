@@ -18,6 +18,21 @@ In Aspect Term Sentiment Classification, current models often overemphasize the 
 An effective strategy to address the scarcity of ABSA datasets and bias involves using weak supervision with social network structures, like retweet networks. By analyzing retweet patterns, sentiment and aspect orientations within specific groups can be inferred without detailed manual annotation. This approach creates large-scale, weakly labeled datasets that can be refined with machine learning and validated through targeted reviews. A well-defined codebook enhances the efficiency and consistency of labeling by providing guidelines for detecting stances based on community orientations. This method reduces the costs of creating labeled datasets and captures a wide range of aspects and sentiments across diverse groups and sub-communities.
 
 ## Datasets
+### SemEval dataset
+SemEval 2014, 2015 and 2016 Stance detection dataset
+|Laptop14|Restaurant 14|Restaurant 15|Restaurant16|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+|MaskedABSA|86.24|87.65|91.53|94.83|
+### US Race Relations Datase
+Race and Politics datasets distribution
+|Dataset|Positive|Negative|Toatal|
+|:----:|:----:|:----:|:----:|:----:|
+|Races|Train|885|2115|3000|
+|     |Test|309|699|1000|
+|Politics|Train|873|2122|2995|
+|        |Test|257|751|1008|
+
+
 
 ## Contiributions and Feedback
 We encourage contributions and feedback to improve this project. If you have suggestions or want to contribute, please open an issue or pull request on our GitHub repository.
