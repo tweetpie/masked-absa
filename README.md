@@ -24,7 +24,7 @@ We encourage contributions and feedback to improve this project. If you have sug
 
 ## Citation
 @inproceedings{ title={Masking The Bias : From Echo Chambers to Large Scale Aspect-Based Sentiment Analysis}, <br />
-author={Yeonjung Lee, Yusuf \c{C}etinkaya, Emre K"{u}lah, Hakk{\i} Toroslu and Hasan Davulcu}, <br />
+author={Yeonjung Lee, Yusuf Cetinkaya, Emre Kulah, Hakki Toroslu and Hasan Davulcu}, <br />
 booktitle={}, <br />
 pages={}, <br />
 year={}, <br />
