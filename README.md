@@ -20,13 +20,13 @@ An effective strategy to address the scarcity of ABSA datasets and bias involves
 ## Datasets
 ### SemEval dataset
 SemEval 2014, 2015 and 2016 Stance detection dataset
-|Laptop14|Restaurant 14|Restaurant 15|Restaurant16|
+||Laptop14|Restaurant 14|Restaurant 15|Restaurant16|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |MaskedABSA|86.24|87.65|91.53|94.83|
 ### US Race Relations Datase
 Race and Politics datasets distribution
 |Dataset|Positive|Negative|Toatal|
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |Races|Train|885|2115|3000|
 |     |Test|309|699|1000|
 |Politics|Train|873|2122|2995|
