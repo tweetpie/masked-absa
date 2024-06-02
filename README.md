@@ -26,7 +26,7 @@ SemEval 2014, 2015 and 2016 Stance detection dataset
 |MaskedABSA|86.24|87.65|91.53|94.83|
 ### US Race Relations Datase
 Race and Politics datasets distribution
-|Dataset|Positive|Negative|Toatal|
+|Dataset|Positive|Negative|Total|
 |:----:|:----:|:----:|:----:|
 |Races|Train|885|2115|3000|
 |     |Test|309|699|1000|
@@ -35,7 +35,17 @@ Race and Politics datasets distribution
 * **politic_dataset.zip :** Twitter text data related to the political terms.
 * **race_dataset.zip :** Twitter text data related to the races terms.
 
-## Contiributions and Feedback
+## Models
+The models used in this study are available on Huggingface.
+
+|Dataset|Model|
+|:----:|:----:|
+|Restaurant14|[masked-absa-rest14](https://huggingface.co/tweetpie/masked-absa-rest14)|
+|Restaurant15|[masked-absa-rest15](https://huggingface.co/tweetpie/masked-absa-rest15)|
+|Race|[masked-absa-race](https://huggingface.co/tweetpie/masked-absa-race)|
+|Politics|[masked-absa-politics](https://huggingface.co/tweetpie/masked-absa-politics)|
+
+## Contributions and Feedback
 We encourage contributions and feedback to improve this project. If you have suggestions or want to contribute, please open an issue or pull request on our GitHub repository.
 
 ## Citation
