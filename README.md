@@ -41,7 +41,9 @@ The models used in this study are available on Huggingface.
 |Dataset|Model|
 |:----:|:----:|
 |Restaurant14|[masked-absa-rest14](https://huggingface.co/tweetpie/masked-absa-rest14)|
+|Laptop14|[masked-absa-rest14](https://huggingface.co/tweetpie/masked-absa-laptop14)|
 |Restaurant15|[masked-absa-rest15](https://huggingface.co/tweetpie/masked-absa-rest15)|
+|Restaurant16|[masked-absa-rest15](https://huggingface.co/tweetpie/masked-absa-rest16)|
 |Race|[masked-absa-race](https://huggingface.co/tweetpie/masked-absa-race)|
 |Politics|[masked-absa-politics](https://huggingface.co/tweetpie/masked-absa-politics)|
 
