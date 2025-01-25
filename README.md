@@ -1,4 +1,6 @@
 # Masking The Bias : From Echo Chambers to Large Scale Aspect-Based Sentiment Analysis
+[https://dx.doi.org/10.1007/978-3-031-78538-2_19](https://dx.doi.org/10.1007/978-3-031-78538-2_19)
+
 Welcome to the **Masked Aspect-Based Sentiment Analysis** repository. This project addresses the challenges of scarcity and high costs associated with manual annotation in Aspect-Based Sentiment Analysis (ABSA) by utilizing weak supervision methods. We have demonstrated the superiority of our model using SemEval datasets and real-world tweet data.
 
 ## Masked Aspect Sentiment Classification (MASC)
@@ -51,9 +53,14 @@ The models used in this study are available on Huggingface.
 We encourage contributions and feedback to improve this project. If you have suggestions or want to contribute, please open an issue or pull request on our GitHub repository.
 
 ## Citation
-@inproceedings{ title={Masking The Bias : From Echo Chambers to Large Scale Aspect-Based Sentiment Analysis}, <br />
-author={Yeonjung Lee, Yusuf Cetinkaya, Emre Kulah, Hakki Toroslu and Hasan Davulcu}, <br />
-booktitle={}, <br />
-pages={}, <br />
-year={}, <br />
-organization={} }<br />
+
+```bibtex
+@inproceedings{maskedabsa2025,
+  title={Masking the Bias: From Echo Chambers to Large Scale Aspect-Based Sentiment Analysis},
+  author={Lee, Yeonjung and {\c{C}}etinkaya, Yusuf M{\"u}cahit and K{\"u}lah, Emre and Toroslu, {\.I}smail Hakk{\i} and Davulcu, Hasan},
+  booktitle="Social Networks Analysis and Mining (ASONAM 2024)",
+  year="2025",
+  publisher="Springer Nature Switzerland",
+  pages="214--225",
+  doi="10.1007/978-3-031-78538-2_19"
+}
